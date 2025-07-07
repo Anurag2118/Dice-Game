@@ -2,34 +2,34 @@
 
 A simple and engaging web-based dice game where two players roll dice and the higher roll wins! Refresh the page to play again.
 
-## 🚀 Live Demo
+## Live Demo
 
 [https://anurag2118.github.io/Dice-Game/](https://anurag2118.github.io/Dice-Game/)
 
-## ▶️ Gameplay Demo
+## Gameplay Demo
 
 ![Gameplay Demo](assets/demo.gif)
 
-## 🎲 How to Play
+## How to Play
 
 1.  **Open `index.html`** in your web browser (or simply visit the [Live Demo](https://anurag2118.github.io/Dice-Game/)).
 2.  **Refresh the page!** Each time you refresh, Player 1 and Player 2 will roll their dice.
 3.  **See the Winner:** The title at the top will instantly declare the winner (Player 1, Player 2, or a Draw!).
 
-## ✨ Features
+## Features
 
 * **Random Dice Rolls:** Utilizes JavaScript's `Math.random()` to generate unpredictable dice outcomes.
 * **Dynamic Image Updates:** Dice images change based on the random roll.
 * **Clear Winner Declaration:** The game title updates to announce the winner or a draw.
 * **Simple Refresh-to-Play:** Designed for quick and easy replays by simply refreshing the browser.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * HTML5
 * CSS3
 * JavaScript
 
-## 🚀 Getting Started
+## Getting Started
 
 To get a local copy up and running, follow these simple steps:
 
